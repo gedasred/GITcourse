@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-File A adding text
-=======
-FileA in testing
->>>>>>> testing
+Alex has a cat and fish.
