@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File A adding text
+=======
+FileA in testing
+>>>>>>> testing
